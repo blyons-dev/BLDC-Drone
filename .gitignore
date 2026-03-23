@@ -1,8 +1,0 @@
-*.kicad_sch-bak
-*.kicad_pcb-bak
-*.dcm-bak
-*.kicad_pcb-lck
-*.kicad_sch-lck
-*~
-fp-info-cache
-.DS_Store
