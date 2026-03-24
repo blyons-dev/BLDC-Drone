@@ -8,7 +8,9 @@ This project is a custom-built quadcopter drone powered by four brushless DC (BL
 - Integrated 3D models for mechanical components and assembly
 ## Repository Structure
 - /hardware
-  - Contains all physical design files for the drone: KiCad schematics and PCB layouts, 3D models for structural and mounting components
+  - Contains all physical design files for the drone:
+    - KiCad schematics and PCB layouts
+    - 3D models for structural and mounting components
 - /software (planned, not implemented yet)
   - Will include firmware and control algorithms for the STM32, including motor control and flight logic
 ## Project Milestones
