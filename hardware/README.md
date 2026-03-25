@@ -35,7 +35,7 @@ The entire project folder will be dumped here, so any resources used in the proj
 
 # Version Information
 
-- KiCAD Version: 9.0.X
-- Last Updated: 2026-03-23
+- KiCAD Version: 10.0
+- Last Updated: 2026-03-25
 
 Ensure to keep your KiCAD and all libraries updated to the latest stable versions for compatibility and access to new features.
